@@ -65,3 +65,25 @@ Boot from CD room
 network : user
 card    : rtl8139
 
+
+
+
+
+
+
+step 2
+
+
+start vm 
+
+
+
+
+
+enjoy
+
+
+
+
+
+print("Happy Day Hacking")
